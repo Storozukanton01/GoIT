@@ -1,2 +1,2 @@
 # GoIT
-homeworks
+homework1
